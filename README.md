@@ -107,7 +107,7 @@
 
 <p align="centre"><b>Visitors Count</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fthayswen&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fthayswen&s=50&c=8000FF&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 </div>
 
